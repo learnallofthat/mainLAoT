@@ -1,0 +1,3 @@
+/home/ivan/source/vscode/mainLAoT/build/CMakeFiles/rebuild_cache.dir
+/home/ivan/source/vscode/mainLAoT/build/CMakeFiles/edit_cache.dir
+/home/ivan/source/vscode/mainLAoT/build/CMakeFiles/main.dir

@@ -1,7 +1,12 @@
 #include <iostream>
 
+void helloFromNewBranch()
+{
+    std::cout << "Hello github from new branch.\n";
+}
+
 int main(int argc, char **argv)
 {
-    std::cout << "Hi github.\n";
+    helloFromNewBranch();
     return 0;
 }
