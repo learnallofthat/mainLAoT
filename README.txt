@@ -1,6 +1,7 @@
 ###My notes###
 
-~/.gitconfig //Use with texteditor for edit config
+#Use with texteditor for edit config
+~/.gitconfig
 
 #Initialization this repositories
 git init
